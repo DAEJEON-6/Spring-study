@@ -90,6 +90,7 @@
 </table>
 
 ---
+
 ## :memo: 스터디 방법
 * [로드맵](https://www.inflearn.com/roadmaps/373)을 따라서 진행합니다.
 * **스터디는 매주 일요일 22:00에 진행합니다.**
@@ -111,6 +112,7 @@
 </br>
 
 ---
+
 ## :heavy_exclamation_mark: Git 사용 규칙
 - 강의 파일 (*.pdf) 업로드 금지입니다. 
 - 해당 주차별로 각자 본인의 Branch를 분기 시켜서 작업 후 merge해주세요.
