@@ -34,7 +34,7 @@
 :warning:스터디 계획은 변동될 수 있습니다.   
 :truck: ... 은 아직 ...!!!!
 </br>   
-<table width="550px" align="center">
+<table width="550px">
     <thead>
         <tr>
             <th align="center">일시</th>
@@ -48,39 +48,39 @@
         </tr>
         <tr>
             <td rowspan="2" align = "center"> 1주차 </br> 2021.08.15.</td>
-            <td align="center"> 섹션 1. 프로젝트 환경 설정 </td>
+            <td> 섹션 1. 프로젝트 환경 설정 </td>
             <td align="center" rowspan="2"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
-            <td align="center"> 섹션 2. 스프링 웹 개발 기초</td>
+            <td> 섹션 2. 스프링 웹 개발 기초</td>
         </tr>
         <tr>
             <td align = "center"> 2주차 </br> 2021.08.22.</td>
-            <td align="center"> 섹션 3. 회원 관리 예제 - 백엔드 개발 </td>
+            <td> 섹션 3. 회원 관리 예제 - 백엔드 개발 </td>
             <td align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
             <td rowspan="2"  align = "center"> 3주차 </br> 2021.08.29.</td>
-            <td align="center"> 섹션 4. 스프링 빈과 의존관계 </td>
+            <td> 섹션 4. 스프링 빈과 의존관계 </td>
             <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
-            <td align="center"> 섹션 5. 회원 관리 예제 - 웹 MVC 개발</td>
+            <td> 섹션 5. 회원 관리 예제 - 웹 MVC 개발</td>
         </tr>
         <tr>
             <td rowspan="2"  align = "center"> 4주차 </br> 2021.09.05.</td>
-            <td align="center"> 섹션 6. 스프링 DB 접근 기술 </td>
+            <td> 섹션 6. 스프링 DB 접근 기술 </td>
             <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
-            <td align="center"> 섹션 7. AOP </td>
+            <td"> 섹션 7. AOP </td>
         </tr>
         <tr>
             <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard" style="color:black; font-size:15px"><b>스프링 핵심 원리 - 기본편</b></a></td>
         </tr>
         <tr>
             <td align = "center"> 5주차 </br> 2021.09.12.</td>
-            <td align="center"> 섹션 1. 객체 지향 설계와 스프링 </td>
+            <td> 섹션 1. 객체 지향 설계와 스프링 </td>
             <td align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
@@ -100,6 +100,7 @@
 * 발표 후 Q&A시간을 갖습니다. 이때 내가 이 챕터를 들으면서 이해 안갔거나, 추가적으로 알았으면 하는 내용을 공유합니다. 
 * 그날 해결되지 않은 질문은 질문자가 공부해서 발표합니다.  
 </br>
+
 --- 
 
 ## :green_book: 발표 가이드
@@ -108,6 +109,7 @@
    - :warning:**이 경우 발표자료에 인프런 강의 링크와 해당 강의를 정리한 내용임을 명시해주셔야합니다.** :warning:
 2. 심화, 관련 개념   
 </br>
+
 ---
 ## :heavy_exclamation_mark: Git 사용 규칙
 - 강의 파일 (*.pdf) 업로드 금지입니다. 
