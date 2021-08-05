@@ -11,19 +11,23 @@
 </br></br>
 ## :+1: Member
 ---
+
 </br>
+📌 click 🖼️
 <table style="border:1px solid #4444">
 <tr> 
-<td align="center" width="120px"><a herf="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a herf="https://github.com/ohyr"><img src="https://avatars.githubusercontent.com/u/18694745?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a herf="https://github.com/EoJin-Kim"><img src="https://avatars.githubusercontent.com/u/62640679?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a herf="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/47266337?v=4" width="100px"></a></td>
+<td align="center" width="120px"><a href="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px"></a></td>
+<td align="center" width="120px"><a href="https://github.com/ohyr"><img src="https://avatars.githubusercontent.com/u/18694745?v=4" width="100px"></a></td>
+<td align="center" width="120px"><a href="https://github.com/EoJin-Kim"><img src="https://avatars.githubusercontent.com/u/62640679?v=4" width="100px"></a></td>
+<td align="center" width="120px"><a href="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/47266337?v=4" width="100px"></a></td>
+    <td align="center" width="120px"><a href="https://github.com/ChaerinYu"><img src="https://avatars.githubusercontent.com/u/17977857?v=4" width="100px"></a></td>
 </tr>
 <tr style="font-weight:bold">
 <td align="center"> LeeDongHo</td>
 <td align="center"> ohyr </td>
 <td align="center"> EoJin-Kim </td>
 <td align="center"> KJY97 </td>
+<td align="center"> ChaerinYu </td>
 </tr>
 </table>
 </br>
