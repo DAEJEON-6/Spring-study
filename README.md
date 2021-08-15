@@ -37,9 +37,9 @@
 <table width="550px">
     <thead>
         <tr>
-            <th align="center">일시</th>
-            <th align="center">주제</th>
-            <th align="center">기록</th>
+            <th style="text-align:center">일시</th>
+            <th style="text-align:center">주제</th>
+            <th style="text-align:center">기록</th>
         </tr>
     </thead>
     <tbody>
@@ -49,7 +49,7 @@
         <tr>
             <td rowspan="2" align = "center"> 1주차 </br> 2021.08.15.</td>
             <td> 섹션 1. 프로젝트 환경 설정 </td>
-            <td align="center" rowspan="2"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
+            <td align="center" rowspan="2"> 발표자 : 미정 <br> <a href="./tree/main/1weeks">스터디 기록</a></td>
         </tr>
         <tr>
             <td> 섹션 2. 스프링 웹 개발 기초</td>
@@ -73,7 +73,7 @@
             <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
-            <td"> 섹션 7. AOP </td>
+            <td> 섹션 7. AOP </td>
         </tr>
         <tr>
             <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard" style="color:black; font-size:15px"><b>스프링 핵심 원리 - 기본편</b></a></td>
