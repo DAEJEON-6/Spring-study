@@ -11,7 +11,7 @@
 |이름|파일명 (링크)|
 |:--:|:--:|
 |LeeDongHo|[DOHO_MavenVSGradle](/DOHO_MavenVSGradle.pdf)|
-|ohyr||
+|ohyr|[Spring_logging_libs](/ohyr_210815_spring_logging_libs.pdf)|
 |EoJin-Kim||
 |KJY97|[KJY97_섹션1,2정리](https://github.com/DAEJEON-6/Spring-study/blob/main/1weeks/KJY97_%EC%84%B9%EC%85%981%2C2%EC%A0%95%EB%A6%AC.md)|
 |CharinYu|[Spring1](/chaerin_210815_spring.pdf)|
