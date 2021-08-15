@@ -14,4 +14,4 @@
 |ohyr||
 |EoJin-Kim||
 |KJY97||
-|CharinYu||
+|CharinYu|[Spring1](/chaerin_210815_spring.pdf)|
