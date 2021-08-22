@@ -65,7 +65,7 @@
         <tr>
             <td rowspan="3" align = "center"> 2주차 </br> 2021.08.22.</td>
             <td> 섹션 3. 회원 관리 예제 - 백엔드 개발 </td>
-            <td rowspan="3" align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
+            <td rowspan="3" align="center"> 발표자 : KJY97 <br> <a href="2weeks">스터디 기록</a></td>
         </tr>
         <tr>
             <td> 섹션 4. 스프링 빈과 의존관계 </td>
@@ -76,7 +76,7 @@
         <tr>
             <td rowspan="2"  align = "center"> 3주차 </br> 2021.08.29.</td>
             <td> 섹션 6. 스프링 DB 접근 기술 </td>
-            <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
+            <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="3weeks">스터디 기록</a></td>
         </tr>
         <tr>
             <td> 섹션 7. AOP </td>
@@ -85,7 +85,7 @@
             <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard" style="color:black; font-size:15px"><b>스프링 핵심 원리 - 기본편</b></a></td>
         </tr>
         <tr>
-            <td align = "center"> 4주차 </br> 2021.09.05.</td>
+            <td align = "center"> 3주차 </br> 2021.08.29.</td>
             <td> 섹션 1. 객체 지향 설계와 스프링 </td>
             <td align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
         </tr>
