@@ -14,6 +14,6 @@
 |LeeDongHo|[MVC Design pattern](MVC_design_pattern.pdf)|
 |ohyr||
 |EoJin-Kim||
-|KJY97||
+|KJY97|| [스터디 2주차(2021.08.22)-섹션 3,4,5](스터디 2주차(2021.08.22)_섹션3,4,5.pdf)
 |CharinYu||
 |jyoonlee|[Link](스터디_2주차(2021.08.22).pdf)|
