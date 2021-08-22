@@ -15,5 +15,5 @@
 |ohyr||
 |EoJin-Kim||
 |KJY97|[스터디 2주차 어노테이션 위주](스터디_2주차(2021.08.22)_섹션3-5.pdf)|
-|CharinYu||
+|CharinYu|[Optional, Assertion, DI](challenge_210822_optional,assertion,di.pdf)|
 |jyoonlee|[Link](스터디_2주차(2021.08.22).pdf)|
