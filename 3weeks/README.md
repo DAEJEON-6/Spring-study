@@ -14,6 +14,6 @@
 |LeeDongHo|[Link](SOLID.pdf)|
 |ohyr||
 |EoJin-Kim||
-|KJY97||
+|KJY97|[스터디_3주차(ORM, @Around 외 2가지](스터디_3주차(ORM%2C%20%40Around%20외%202가지).pdf)|
 |CharinYu||
 |jyoonlee||
