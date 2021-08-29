@@ -76,7 +76,7 @@
         <tr>
             <td rowspan="2"  align = "center"> 3주차 </br> 2021.08.29.</td>
             <td> 섹션 6. 스프링 DB 접근 기술 </td>
-            <td rowspan="2"  align="center"> 발표자 : 미정 <br> <a href="3weeks">스터디 기록</a></td>
+            <td rowspan="2"  align="center"> 발표자 : KJY97 <br> <a href="3weeks">스터디 기록</a></td>
         </tr>
         <tr>
             <td> 섹션 7. AOP </td>
@@ -87,10 +87,18 @@
         <tr>
             <td align = "center"> 3주차 </br> 2021.08.29.</td>
             <td> 섹션 1. 객체 지향 설계와 스프링 </td>
-            <td align="center"> 발표자 : 미정 <br> <a href="">스터디 기록</a></td>
+            <td align="center"> 발표자 : KJY97 <br> <a href="">스터디 기록</a></td>
         </tr>
         <tr>
-            <td colspan="3" align="center"> ... </td>
+            <td rowspan="3" align="center"> 4주차 </br> 2021.09.05. </td>
+            <td>섹션 2. 스프링 핵심 원리 이해1 - 예제 만들기</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="4weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용</td>
+        </tr>
+        <tr>
+            <td>섹션 4. 스프링 컨테이너와 스프링 빈</td>
         </tr>
     </tbody>
 </table>
