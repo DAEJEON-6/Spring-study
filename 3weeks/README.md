@@ -16,4 +16,4 @@
 |EoJin-Kim||
 |KJY97|[스터디_3주차(ORM, @Around 외 2가지](스터디_3주차(ORM%2C%20%40Around%20외%202가지).pdf)|
 |CharinYu||
-|jyoonlee|[Link] (스터디_3주차(2021.08.29).pdf)|
+|jyoonlee|3weeks/스터디_3주차(2021.08.29).pdf|
