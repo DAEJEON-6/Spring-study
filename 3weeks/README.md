@@ -15,5 +15,5 @@
 |ohyr||
 |EoJin-Kim||
 |KJY97|[스터디_3주차(ORM, @Around 외 2가지](스터디_3주차(ORM%2C%20%40Around%20외%202가지).pdf)|
-|CharinYu|[Challenge](challenge_210829_spring_week_3.pdf)|
+|ChaerinYu|[Challenge](challenge_210829_spring_week_3.pdf)|
 |jyoonlee|[Link](스터디_3주차(2021.08.29).pdf)|
