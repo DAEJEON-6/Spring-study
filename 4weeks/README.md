@@ -15,5 +15,5 @@
 |ohyr||
 |EoJin-Kim||
 |KJY97||
-|CharinYu||
+|CharinYu|[Challenge](chaerin_210905_spring_week_4.pdf)|
 |jyoonlee||
