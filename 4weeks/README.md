@@ -11,7 +11,7 @@
 ### :speech_balloon:
 |이름|파일명 (링크)|
 |:--:|:--:|
-|LeeDongHo||
+|LeeDongHo|[Link](Spring_Bean.pdf)|
 |ohyr|[Test_in_Coding_test](https://thread-candytuft-868.notion.site/4-2021-09-05-f6db5e2a634f412e8fa3da04adba753c)|
 |EoJin-Kim|[4주차](스프링%204주차.pptx)|
 |KJY97||
