@@ -16,5 +16,5 @@
 |EoJin-Kim|[4주차](스프링%204주차.pptx)|
 |KJY97||
 |CharinYu|[Challenge](chaerin_210905_spring_week_4.pdf)|
-|jyoonlee|[Link](https://www.notion.so/4-2021-09-05-e4327dfa443648edaf4d67f95aae9aef)|
+|jyoonlee|[Link](https://foggy-mandible-8f9.notion.site/4-2021-09-05-e4327dfa443648edaf4d67f95aae9aef)|
 
