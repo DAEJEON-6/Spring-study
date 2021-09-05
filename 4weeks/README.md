@@ -13,7 +13,7 @@
 |:--:|:--:|
 |LeeDongHo||
 |ohyr||
-|EoJin-Kim|[4주차](스프링 4주차.pptx)|
+|EoJin-Kim|[4주차](스프링%204주차.pptx)|
 |KJY97||
 |CharinYu|[Challenge](chaerin_210905_spring_week_4.pdf)|
 |jyoonlee||
