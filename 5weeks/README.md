@@ -16,5 +16,5 @@
 |EoJin-Kim||
 |KJY97||
 |CharinYu||
-|jyoonlee||
+|jyoonlee|[Link](https://foggy-mandible-8f9.notion.site/5-2021-09-12-53a1853a27da49b4bd61e0803335f4e5)|
 
