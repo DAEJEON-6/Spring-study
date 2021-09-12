@@ -14,7 +14,7 @@
 |LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/Lombok-5cae9091bf444169a99d970bf11fd9ef)|
 |ohyr|[CGLIB](https://thread-candytuft-868.notion.site/5-2021-09-12-62673dcad5d5488aa79e91618c4742e5)|
 |EoJin-Kim||
-|KJY97|[Link](스터디_5주차(2021.09.12).pdf)|
+|KJY97|[Threadlocal](스터디_5주차(2021.09.12).pdf)|
 |CharinYu|[Challenge](chaerin_210912_spring_week_5.pdf)|
 |jyoonlee|[Link](https://foggy-mandible-8f9.notion.site/5-2021-09-12-53a1853a27da49b4bd61e0803335f4e5)|
 
