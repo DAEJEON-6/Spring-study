@@ -11,7 +11,7 @@
 ### :speech_balloon:
 |이름|파일명 (링크)|
 |:--:|:--:|
-|LeeDongHo||
+|LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/Lombok-5cae9091bf444169a99d970bf11fd9ef)|
 |ohyr||
 |EoJin-Kim||
 |KJY97||
