@@ -12,7 +12,7 @@
 |이름|파일명 (링크)|
 |:--:|:--:|
 |LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/Lombok-5cae9091bf444169a99d970bf11fd9ef)|
-|ohyr||
+|ohyr|[CGLIB](https://thread-candytuft-868.notion.site/5-2021-09-12-62673dcad5d5488aa79e91618c4742e5)|
 |EoJin-Kim||
 |KJY97||
 |CharinYu|[Challenge](chaerin_210912_spring_week_5.pdf)|
