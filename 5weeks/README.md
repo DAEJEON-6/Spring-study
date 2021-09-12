@@ -15,6 +15,6 @@
 |ohyr||
 |EoJin-Kim||
 |KJY97||
-|CharinYu||
+|CharinYu|[Challenge](chaerin_210912_spring_week_5.pdf)|
 |jyoonlee|[Link](https://foggy-mandible-8f9.notion.site/5-2021-09-12-53a1853a27da49b4bd61e0803335f4e5)|
 
