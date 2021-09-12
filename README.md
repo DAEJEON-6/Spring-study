@@ -16,7 +16,7 @@
 📌 click 🖼️
 <table style="border:1px solid #4444">
 <tr> 
-<td align="center" width="120px"><a href="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px"></a></td>
+<td align="center" width="120px"><a href="https://github.com/LeeDongHo"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px"></a></td>
 <td align="center" width="120px"><a href="https://github.com/ohyr"><img src="https://avatars.githubusercontent.com/u/18694745?v=4" width="100px"></a></td>
 <td align="center" width="120px"><a href="https://github.com/EoJin-Kim"><img src="https://avatars.githubusercontent.com/u/62640679?v=4" width="100px"></a></td>
 <td align="center" width="120px"><a href="https://github.com/KJY97"><img src="https://avatars.githubusercontent.com/u/47266337?v=4" width="100px"></a></td>
