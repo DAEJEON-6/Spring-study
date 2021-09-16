@@ -103,7 +103,7 @@
         <tr>
             <td rowspan="3" align="center"> 5주차 </br> 2021.09.12. </td>
             <td>섹션 5. 싱글톤 컨테이너</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : jyoonlee <br> <a href="5weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 6. 컴포넌트 스캔</td>
