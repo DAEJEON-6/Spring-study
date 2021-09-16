@@ -167,7 +167,7 @@
             <td>섹션 3. 메세지, 국제화</td>
         </tr>
         <tr>
-            <td rowspan="3" align="center"> 10주차 </br> 2021.10.17. </td>
+            <td rowspan="3" align="center"> 11주차 </br> 2021.10.17. </td>
             <td>섹션 4. 검증1 - Validation</td>
             <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
         </tr>
@@ -178,7 +178,7 @@
             <td>섹션 6. 로그인 처리1 - 쿠기, 세션</td>
         </tr>
         <tr>
-            <td rowspan="3" align="center"> 11주차 </br> 2021.10.24. </td>
+            <td rowspan="3" align="center"> 12주차 </br> 2021.10.24. </td>
             <td>섹션 7. 로그인 처리2 - 필터, 인터셉터</td>
             <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
         </tr>
@@ -189,7 +189,7 @@
             <td>섹션 9. API 예외 처리</td>
         </tr>
          <tr>
-            <td rowspan="3" align="center"> 12주차 </br> 2021.10.31. </td>
+            <td rowspan="3" align="center"> 13주차 </br> 2021.10.31. </td>
             <td>섹션 10. 스프링 타입 컨버터</td>
             <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
         </tr>
