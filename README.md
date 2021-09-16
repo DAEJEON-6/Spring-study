@@ -111,6 +111,91 @@
         <tr>
             <td>섹션 7. 의존관계 자동 주입</td>
         </tr>
+        <tr>
+            <td rowspan="2" align="center"> 6주차 </br> - </td>
+            <td>섹션 8. 싱글톤 컨테이너</td>
+            <td rowspan="2" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 9. 컴포넌트 스캔</td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard" style="color:black; font-size:15px"><b>스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</b></a></td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"> 7주차 </br> 2021.09.26. </td>
+            <td>섹션 1. 웹 어플리케이션 이해</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 2. 서블릿</td>
+        </tr>
+        <tr>
+            <td>섹션 3. 서블릿, JSP, MVC 패턴</td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"> 8주차 </br> 2021.10.03. </td>
+            <td>섹션 4. MVC 프레임워크 만들기</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 5. 스프링 MVC - 구조 이해</td>
+        </tr>
+        <tr>
+            <td>섹션 6. 스프링 MVC - 기본 기능</td>
+        </tr>
+        <tr>
+            <td rowspan="2" align="center"> 9주차 </br> 2021.10.10. </td>
+            <td>섹션 6. 스프링 MVC - 기본 기능</td>
+            <td rowspan="2" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 7. 스프링 MVC - 웹 페이지 만들기</td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2/dashboard" style="color:black; font-size:15px"><b>스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</b></a></td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"> 10주차 </br> 2021.10.17. </td>
+            <td>섹션 1. 타임리프 - 기본 기능</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 2. 타임 리프 - 스프링 통합과 폼</td>
+        </tr>
+        <tr>
+            <td>섹션 3. 메세지, 국제화</td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"> 10주차 </br> 2021.10.17. </td>
+            <td>섹션 4. 검증1 - Validation</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 5. 검증2 - Bean Validation</td>
+        </tr>
+        <tr>
+            <td>섹션 6. 로그인 처리1 - 쿠기, 세션</td>
+        </tr>
+        <tr>
+            <td rowspan="3" align="center"> 11주차 </br> 2021.10.24. </td>
+            <td>섹션 7. 로그인 처리2 - 필터, 인터셉터</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 8. 예외 처리와 오류 페이지</td>
+        </tr>
+        <tr>
+            <td>섹션 9. API 예외 처리</td>
+        </tr>
+         <tr>
+            <td rowspan="3" align="center"> 12주차 </br> 2021.10.31. </td>
+            <td>섹션 10. 스프링 타입 컨버터</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+        </tr>
+        <tr>
+            <td>섹션 11. 파일 업로드</td>
+        </tr>
     </tbody>
 </table>
 
