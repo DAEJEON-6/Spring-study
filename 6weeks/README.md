@@ -1,0 +1,20 @@
+# 6 weeks 
+**2021.09.19. 22:00**
+
+## :calendar: Schedule
+|주제|
+|:--|
+|섹션 8. 빈 생명주기 콜백|
+|섹션 9. 빈 스코프|
+|섹션 10. 다음으로|
+
+### :speech_balloon:
+|이름|파일명 (링크)|
+|:--:|:--:|
+|LeeDongHo||
+|ohyr||
+|EoJin-Kim||
+|KJY97||
+|CharinYu||
+|jyoonlee||
+
