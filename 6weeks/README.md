@@ -14,6 +14,6 @@
 |LeeDongHo||
 |ohyr||
 |KJY97||
-|CharinYu||
+|CharinYu|[Challenge](chaerin_210919_spring_week_6.pdf)|
 |jyoonlee||
 
