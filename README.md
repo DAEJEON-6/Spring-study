@@ -113,11 +113,11 @@
         </tr>
         <tr>
             <td rowspan="2" align="center"> 6주차 </br> - </td>
-            <td>섹션 8. 싱글톤 컨테이너</td>
+            <td>섹션 8. 빈 생명주기 콜백</td>
             <td rowspan="2" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
         </tr>
         <tr>
-            <td>섹션 9. 컴포넌트 스캔</td>
+            <td>섹션 9. 빈 스코프</td>
         </tr>
         <tr>
             <td colspan="3" align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard" style="color:black; font-size:15px"><b>스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술</b></a></td>
