@@ -13,7 +13,7 @@
 |:--:|:--:|
 |LeeDongHo||
 |ohyr||
-|KJY97||
+|KJY97|[7주차 요약정리](스터디_7주차(2021.09.26).pdf)|
 |CharinYu||
 |jyoonlee||
 
