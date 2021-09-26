@@ -11,7 +11,7 @@
 ### :speech_balloon:
 |이름|파일명 (링크)|
 |:--:|:--:|
-|LeeDongHo||
+|LeeDongHo|[Builder](https://adjoining-tarragon-87a.notion.site/Builder-9889bcc51bc24acdbf2473157fc2127f)|
 |ohyr||
 |KJY97|[7주차 요약정리](스터디_7주차(2021.09.26).pdf)|
 |CharinYu|[Challenge](chaerin_210926_spring_week_7.pdf)|
