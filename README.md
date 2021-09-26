@@ -125,7 +125,7 @@
         <tr>
             <td rowspan="3" align="center"> 7주차 </br> 2021.09.26. </td>
             <td>섹션 1. 웹 어플리케이션 이해</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : KJY97 <br> <a href="5weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 2. 서블릿</td>
