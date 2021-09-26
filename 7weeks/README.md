@@ -14,6 +14,6 @@
 |LeeDongHo||
 |ohyr||
 |KJY97|[7주차 요약정리](스터디_7주차(2021.09.26).pdf)|
-|CharinYu||
+|CharinYu|[Challenge](chaerin_210926_spring_week_7.pdf)|
 |jyoonlee||
 
