@@ -114,7 +114,7 @@
         <tr>
             <td rowspan="2" align="center"> 6주차 </br> - </td>
             <td>섹션 8. 빈 생명주기 콜백</td>
-            <td rowspan="2" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="2" align="center">발표자 : - <br> <a href="6weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 9. 빈 스코프</td>
@@ -125,7 +125,7 @@
         <tr>
             <td rowspan="3" align="center"> 7주차 </br> 2021.09.26. </td>
             <td>섹션 1. 웹 어플리케이션 이해</td>
-            <td rowspan="3" align="center">발표자 : KJY97 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : KJY97 <br> <a href="7weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 2. 서블릿</td>
@@ -136,7 +136,7 @@
         <tr>
             <td rowspan="3" align="center"> 8주차 </br> 2021.10.03. </td>
             <td>섹션 4. MVC 프레임워크 만들기</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : KJY97 <br> <a href="8weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 5. 스프링 MVC - 구조 이해</td>
@@ -147,7 +147,7 @@
         <tr>
             <td rowspan="2" align="center"> 9주차 </br> 2021.10.10. </td>
             <td>섹션 6. 스프링 MVC - 기본 기능</td>
-            <td rowspan="2" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="2" align="center">발표자 : 미정 <br> <a href="9weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 7. 스프링 MVC - 웹 페이지 만들기</td>
@@ -158,7 +158,7 @@
         <tr>
             <td rowspan="3" align="center"> 10주차 </br> 2021.10.17. </td>
             <td>섹션 1. 타임리프 - 기본 기능</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="10weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 2. 타임 리프 - 스프링 통합과 폼</td>
@@ -169,7 +169,7 @@
         <tr>
             <td rowspan="3" align="center"> 11주차 </br> 2021.10.17. </td>
             <td>섹션 4. 검증1 - Validation</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="11weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 5. 검증2 - Bean Validation</td>
@@ -180,7 +180,7 @@
         <tr>
             <td rowspan="3" align="center"> 12주차 </br> 2021.10.24. </td>
             <td>섹션 7. 로그인 처리2 - 필터, 인터셉터</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="12weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 8. 예외 처리와 오류 페이지</td>
@@ -191,7 +191,7 @@
          <tr>
             <td rowspan="3" align="center"> 13주차 </br> 2021.10.31. </td>
             <td>섹션 10. 스프링 타입 컨버터</td>
-            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="5weeks">스터디 기록</td>
+            <td rowspan="3" align="center">발표자 : 미정 <br> <a href="13weeks">스터디 기록</td>
         </tr>
         <tr>
             <td>섹션 11. 파일 업로드</td>
