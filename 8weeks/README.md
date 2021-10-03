@@ -13,7 +13,7 @@
 |:--:|:--:|
 |LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/Spring-Web-MVC-7551681c47514167860d9b93950e55b6)|
 |ohyr||
-|KJY97||
+|KJY97|[8주차](스터디_8주차(2021.10.03).pdf)|
 |CharinYu||
 |jyoonlee||
 
