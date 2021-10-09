@@ -10,9 +10,7 @@
 ### :speech_balloon:
 |이름|파일명 (링크)|
 |:--:|:--:|
-|LeeDongHo||
-|ohyr||
+|LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/DTO-VO-c283676378a844919656663530db9ab2)|
 |KJY97||
 |CharinYu||
-|jyoonlee||
 
