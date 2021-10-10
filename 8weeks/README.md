@@ -14,6 +14,6 @@
 |LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/Spring-Web-MVC-7551681c47514167860d9b93950e55b6)|
 |ohyr|[Logging](https://thread-candytuft-868.notion.site/8-2021-10-03-2f0c6d3e57014278b94637949521896b)|
 |KJY97|[8주차](스터디_8주차(2021.10.03).pdf)|
-|CharinYu|[Challenge](chaerin_201003_spring_week_8.pdf)|
+|CharinYu|[Challenge](chaerin_211003_spring_week_8_v2.pdf)|
 |jyoonlee||
 

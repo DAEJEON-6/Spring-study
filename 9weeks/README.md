@@ -12,5 +12,5 @@
 |:--:|:--:|
 |LeeDongHo|[Link](https://adjoining-tarragon-87a.notion.site/DTO-VO-c283676378a844919656663530db9ab2)|
 |KJY97||
-|CharinYu||
+|CharinYu|[Challenge](chaerin_211010_spring_week_9.pdf)|
 
